@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+}
+
+#head1 {
+  border: 2px solid tomato;
+}
+
+#head2 {
+  border: 4px solid purple;
+}
+
+#head3 {
+  border: 6px solid violet;
+}
